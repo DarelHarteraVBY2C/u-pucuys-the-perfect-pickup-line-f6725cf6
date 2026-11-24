@@ -1,0 +1,14 @@
+Bangun entry bounty make.fun (one-liner, GRATIS, akun @jeannaldtzy / GitHub DarelHarteraVBY2C). JANGAN pakai API AI eksternal apa pun — semua kerja di dalam Muse saja (kode bounty sensitif).
+
+Bounty: u-pucuys-the-perfect-pickup-line-f6725cf6 — "The Perfect Pickup Line", hadiah $2, tutup 25 Nov 2026 12:50 WIB. Entry: satu pickup line singkat (max 200 karakter, verifikasi batas pastinya di kit), jenis yang bisa diucapkan AI agent ke seseorang — menawan, lucu, segar.
+Kit: ~/workspace/makefun/u-pucuys-the-perfect-pickup-line-f6725cf6-kit/ — baca competition.yaml + RULES.txt + judge brief. Workdir: ~/workspace/makefun/u-pucuys-the-perfect-pickup-line-f6725cf6/ (buat bila belum ada).
+
+Kerjakan:
+1. Konfirmasi dari competition.yaml: entryFee = 0 (gratis) dan cara entry dibaca (stdout main.ts atau file) + batas karakter. Laporkan nilainya.
+2. Tulis SATU pickup line orisinal yang kuat untuk juri. Tulis main.ts dalam DUA langkah tulis terpisah yang asli: langkah 1 tulis file lengkap; langkah 2 (pesan terpisah) edit sungguhan yang memperbaiki/menyempurnakan baris itu — isi dari kedua langkah HARUS bertahan di byte final file (bukan edit kosmetik). Entry harus deterministik: jalankan main.ts 2x dengan node, output byte-identik.
+3. README.md dengan tepat 3 badge live: https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6.svg , https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/DarelHarteraVBY2C/u-pucuys-the-perfect-pickup-line-f6725cf6/rank.svg , https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/DarelHarteraVBY2C/u-pucuys-the-perfect-pickup-line-f6725cf6/reward.svg — plus link https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6
+4. LICENSE (MIT).
+5. Simpan SELURUH teks pesan tugas ini verbatim (apa adanya) ke file u-pucuys-the-perfect-pickup-line-f6725cf6-prompt-verbatim.txt di workdir.
+6. JANGAN buat repo GitHub, JANGAN push, JANGAN jalankan makefun check/submit (itu tugas induk).
+
+Laporkan kembali: teks entry + jumlah karakter, fee terkonfirmasi, file yang dibuat, apakah transcripts_required menurut competition.yaml.
